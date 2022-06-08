@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilya-chernov
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Larvael
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on somebody who knows MVC patterns well.
 - 📫 How to reach me i.chernov@Hotmail.com
 
