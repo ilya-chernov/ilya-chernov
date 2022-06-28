@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ilya-chernov
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning simultaneously learning frontend and backend technologies. I adore JS and PHP Framework Laravel.
-- 💞️ I’m looking to collaborate on somebody who knows MVC patterns well.
+- 💞️ I’m looking someone to collaborate who knows MVC patterns well.
 - 📫 How to reach me i.chernov@Hotmail.com
 
 <!---
